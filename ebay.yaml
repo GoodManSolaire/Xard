@@ -1,0 +1,25 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: GabeJuli-P-SBX-7f78bdb77-bf291bb1
+    certid: SBX-f78bdb77068f-9a50-499b-ad19-d7af
+    devid: f8d2d54f-7fa8-4283-9af1-0ed008365455
+    token: AgAAAA**AQAAAA**aAAAAA**ANDbXw**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4aiDJWDpAWdj6x9nY+seQ**JngFAA**AAMAAA**48dH45AbcUrOyMXnWPQwsw7OWfeKgawRxLh5/OwcWxDwL3wVwYU3QXHwpal8hMCuaIqBk51qpM4MvjbU7JvS/gLpwbBxsPHjwWfdcbj1o3HymksS2nE8f2uJVqJh2DfKEATcApr58RUGEIzQ2sEuNhNkyq1Td1Y/evx8puqfw70dtrLL145KAljwnxQhjKFS5603Zq3ZaxN+eCgh4tzsQrjSaHDo/eL9nOngPUHAGex0Nt6/jblb9b1jb5AwywE3GO7KTDAOFYDx6cNHLd/3axPyDzYesN2os68SdsswN6rr3UHNF0NW1Cqxv8yu3h4pOqsU6BpaNgvJVa2QreR33HHUxkvNzSYmpdU8xGYUotPSHrcWa3PmVcTeMot1qizXjLOWM9Tj9PyqtjFnTgVzTE3ny52qU2DOBS9o6jwdoEhKkPLaUIN5ai9h54XXonSL0a/GOKGdd2jTWzwvqAybWlDHzIViRwlTXorJJakrlY/voiwo7tYI0SslRZLjTJhmQMk3ypltgKy86joLjch1vGeGMhW0i/riKHNOrPv6CmAn2lyHaX7atKsq/QbPI37JRo9LlPBBIXhfXFTiL+yi2JKgCQ3m2BrSWA5JyNLDiUPwQhfM4fJEP50gfzAyWR+yyEimD7J/YhVShWBqBBxmmpVZUXyDMKhHneeyhyxKf3D2WZ76xAYMqmMoxzTOwecgIviT5XzKzWPFx3k/TU/Bpqm0qx5W24Yv6yewSNUBeginWMyk+WaOayRtJP8+iXRJ
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: GabeJuli-P-SBX-7f78bdb77-bf291bb1
+    certid: SBX-f78bdb77068f-9a50-499b-ad19-d7af
+    devid: f8d2d54f-7fa8-4283-9af1-0ed008365455
+    token: AgAAAA**AQAAAA**aAAAAA**ANDbXw**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4aiDJWDpAWdj6x9nY+seQ**JngFAA**AAMAAA**48dH45AbcUrOyMXnWPQwsw7OWfeKgawRxLh5/OwcWxDwL3wVwYU3QXHwpal8hMCuaIqBk51qpM4MvjbU7JvS/gLpwbBxsPHjwWfdcbj1o3HymksS2nE8f2uJVqJh2DfKEATcApr58RUGEIzQ2sEuNhNkyq1Td1Y/evx8puqfw70dtrLL145KAljwnxQhjKFS5603Zq3ZaxN+eCgh4tzsQrjSaHDo/eL9nOngPUHAGex0Nt6/jblb9b1jb5AwywE3GO7KTDAOFYDx6cNHLd/3axPyDzYesN2os68SdsswN6rr3UHNF0NW1Cqxv8yu3h4pOqsU6BpaNgvJVa2QreR33HHUxkvNzSYmpdU8xGYUotPSHrcWa3PmVcTeMot1qizXjLOWM9Tj9PyqtjFnTgVzTE3ny52qU2DOBS9o6jwdoEhKkPLaUIN5ai9h54XXonSL0a/GOKGdd2jTWzwvqAybWlDHzIViRwlTXorJJakrlY/voiwo7tYI0SslRZLjTJhmQMk3ypltgKy86joLjch1vGeGMhW0i/riKHNOrPv6CmAn2lyHaX7atKsq/QbPI37JRo9LlPBBIXhfXFTiL+yi2JKgCQ3m2BrSWA5JyNLDiUPwQhfM4fJEP50gfzAyWR+yyEimD7J/YhVShWBqBBxmmpVZUXyDMKhHneeyhyxKf3D2WZ76xAYMqmMoxzTOwecgIviT5XzKzWPFx3k/TU/Bpqm0qx5W24Yv6yewSNUBeginWMyk+WaOayRtJP8+iXRJ
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: GabeJuli-P-SBX-7f78bdb77-bf291bb1
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: GabeJuli-P-SBX-7f78bdb77-bf291bb1
